@@ -1,5 +1,5 @@
 {
-  "name": "bucklescript-static-binary",
+  "name": "bs-platform",
   "version": "1.0.0",
   "description": "Static binaries for BuckleScript on Linux",
   "main": "index.js",
